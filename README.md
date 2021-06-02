@@ -5,9 +5,10 @@
 Description: The challenge was to simulate PacMan chomping back and forth across the screen. I added some background styling to echo the aesthetic of the original game. 
 
 
-##Installation/How to: No installation necessary, simply load the index.html file into the browser. Click on PacMan to initiate his motion. There is no stop time or button, simply close the browser. If you wish, you can click on PacMan again and he will pick up speed. 
+## Installation/How to: 
+No installation necessary, simply load the index.html file into the browser. Click on PacMan to initiate his motion. There is no stop time or button, simply close the browser. If you wish, you can click on PacMan again and he will pick up speed. 
 
-###License: 
+### License: 
 MIT License
 
 Copyright (c) [year] [fullname]
