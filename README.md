@@ -8,6 +8,14 @@ Description: The challenge was to simulate PacMan chomping back and forth across
 ## Installation/How to: 
 No installation necessary, simply load the index.html file into the browser. Click on PacMan to initiate his motion. There is no stop time or button, simply close the browser. If you wish, you can click on PacMan again and he will pick up speed. 
 
+## Roadmap:
+Current plans for future updates include moving down one row, perpendicular rotation, sound effects.
+
+### Support:
+
+twitter.com/drewpate
+
+
 ### License: 
 MIT License
 
